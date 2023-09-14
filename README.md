@@ -22,6 +22,4 @@ Run the Python script:
 python galaxy_classification.py
 The script will load the FITS files, extract HOG features, split the data into training and testing sets, train the SVM classifier, and evaluate the performance by calculating accuracy and generating a confusion matrix plot.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
